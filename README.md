@@ -1,15 +1,14 @@
-# Matching-Game-Template
-# 連連看樣板
+# 連連看樣板 Matching-Game-Template
 
 這是一個簡單的連連看樣板，適合用於教育或者訓練目的。它是使用 HTML, CSS 和 JavaScript 製作的。
 
-## 功能
+## 功能 Function
 
 - 使用者可以選擇一個選項，然後選擇一個題目。
 - 選擇後，選項和題目之間會產生一條線條連接。
 - 使用者可以選擇新的選項或題目來替換已選擇的選項或題目，並重新連接。
 
-## 如何使用
+## 如何使用 Usage
 
 1. 下載或 clone 此 repository。
 2. 開啟 `index.html` 來啟動遊戲。
@@ -17,11 +16,11 @@
 
 ![Matching-Game-Template](https://github.com/hhs456/Matching-Game-Template/blob/main/Matching-Game-Template.gif)
 
-## 自定義
+## 自定義 Custom
 
 你可以編輯 `index.html` 來添加你自己的選項和題目。每個選項和題目都需要有一個唯一的 `id`。你也可以在 `script.js` 文件中修改連接線的樣式。
 
-## 授權
+## 授權 License
 
 此項目使用 MIT 授權，請參見 LICENSE 文件了解詳細資訊。
 
