@@ -15,7 +15,7 @@
 2. 開啟 `index.html` 來啟動遊戲。
 3. 點擊一個選項，然後點擊一個題目，將會看到連線產生。
 
-![Matching-Game-Template](https://github.com/hhs456/Date-Selector-UGUI/blob/main/Matching-Game-Template.gif)
+![Matching-Game-Template](https://github.com/hhs456/Matching-Game-Template/blob/main/Matching-Game-Template.gif)
 
 ## 自定義
 
