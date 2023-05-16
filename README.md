@@ -15,6 +15,8 @@
 2. 開啟 `index.html` 來啟動遊戲。
 3. 點擊一個選項，然後點擊一個題目，將會看到連線產生。
 
+![Matching-Game-Template](https://github.com/hhs456/Date-Selector-UGUI/blob/main/Matching-Game-Template.gif)
+
 ## 自定義
 
 你可以編輯 `index.html` 來添加你自己的選項和題目。每個選項和題目都需要有一個唯一的 `id`。你也可以在 `script.js` 文件中修改連接線的樣式。
