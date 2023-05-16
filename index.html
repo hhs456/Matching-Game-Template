@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>連連看遊戲</title>
+    <link rel="stylesheet" href="連連看.css">
+</head>
+<body>
+    <div class="game-container">         
+        <div class="questions-container">
+            <h2>題目</h2>
+            <ul id="questions-list">
+                <li onclick="selectQuestion(this)" id="question1">題目1</li>
+                <li onclick="selectQuestion(this)" id="question2">題目2</li>
+                <li onclick="selectQuestion(this)" id="question3">題目3</li>
+                <li onclick="selectQuestion(this)" id="question4">題目4</li>
+            </ul>
+        </div>     
+        <div class="options-container">
+            <h2>選項</h2>
+            <ul id="options-list">
+                <li onclick="selectOption(this)" data-question="question1">選項1</li>
+                <li onclick="selectOption(this)" data-question="question2">選項2</li>
+                <li onclick="selectOption(this)" data-question="question3">選項3</li>
+                <li onclick="selectOption(this)" data-question="question4">選項4</li>
+            </ul>
+        </div>  
+    </div>
+    <button class="confirm-button" onclick="checkAnswers()">確認</button>
+
+    <script src="連連看.js"></script>
+</body>
+</html>
